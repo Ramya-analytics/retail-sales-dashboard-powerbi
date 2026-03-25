@@ -1,6 +1,6 @@
 ## Retail Sales Dashboard (Power BI)
 
-Overview-
+# Overview-
 This project presents an end-to-end retail sales analysis using Power BI. The goal is to analyze business performance, identify key trends, and derive actionable insights.
 
 Dataset
@@ -30,9 +30,9 @@ A small number of products generate majority of revenue
 Higher discounts reduce profitability
 Sub-categories like Tables show consistent losses
 
-#Dashboard Preview
+# Dashboard Preview
 ![Dashboard](Dashboard screenshot.png)
 
-#Conclusion
+# Conclusion
 This dashboard helps identify revenue drivers, profit leaks, and pricing inefficiencies, enabling better business decisions
 
