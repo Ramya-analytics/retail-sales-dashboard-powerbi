@@ -31,7 +31,8 @@ Higher discounts reduce profitability
 Sub-categories like Tables show consistent losses
 
 ## Dashboard Preview
-![Dashboard](Dashboard screenshot.png)
+
+![Dashboard](retail%20dashboard.png)
 
 ## Conclusion
 This dashboard helps identify revenue drivers, profit leaks, and pricing inefficiencies, enabling better business decisions
