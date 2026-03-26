@@ -32,7 +32,7 @@ Sub-categories like Tables show consistent losses
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard .png)
 
 ## Conclusion
 This dashboard helps identify revenue drivers, profit leaks, and pricing inefficiencies, enabling better business decisions
